@@ -3,5 +3,6 @@
     "description": "test composer",
     "type": "library",
     "license": "create by wlabee",
+    "version":"1.0.0",
     "require": {}
 }
