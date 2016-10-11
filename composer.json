@@ -1,0 +1,7 @@
+{
+    "name": "wlabee/hello",
+    "description": "test composer",
+    "type": "library",
+    "license": "create by wlabee",
+    "require": {}
+}
